@@ -27,7 +27,7 @@ void deposit(){
 
 int main(){
 int pin,choice,choice_num2=1;
-cout<<"********Welcome to your bank********"<<endl;
+cout<<"********Welcome to HURRAY bank********"<<endl;
 cout<<"Enter your pin please:";
 cin>>pin;
 while(choice_num2==1){
